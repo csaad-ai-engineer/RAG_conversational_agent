@@ -22,7 +22,6 @@ Streamlit frontend talks to it over HTTP.
 backend/          FastAPI app: ingestion, RAG chain, mock tools, API routes
 frontend/          Streamlit chat UI
 data/docs/          Synthetic DoctoBook-style support FAQ markdown docs
-scripts/            Utility scripts
 chroma_db/          Persisted vector store (generated, gitignored)
 ```
 
